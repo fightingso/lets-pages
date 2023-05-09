@@ -1,9 +1,11 @@
 ### ユーザ名
-ここに記入
+Manato Yamashita
+* https://github.com/ManatoYamashita/
 
 ### 研究室
-ここに記入（任意）
+情報セキュリティ研究室（関研究室）
+* https://www.comm.tcu.ac.jp/seki_lab
 
 ### 研究室でやりたいこと
-ここに記入
+Vue.jsで関研究室の古いWebサイトを創り直したいです。
 
