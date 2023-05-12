@@ -1,6 +1,6 @@
 ### ユーザ名
 Manato Yamashita
-<img src="https://discord.com/channels/885045258499543050/970693929144029195/1094717685134262333" alt="画像の説明" />
+!["https://discord.com/channels/885045258499543050/970693929144029195/1094717685134262333"](icon)
 * https://github.com/ManatoYamashita/
 * https://tmana.sub.jp
 * https://bento.me/ym
@@ -11,3 +11,15 @@ Manato Yamashita
 
 ### 研究室でやりたいこと
 Vue.jsで関研究室の古いWebサイトを創り直したいです。
+
+### 今日の復讐
+* git init
+    * リポジトリを作成
+* git clone
+    * リポジトリをコピー
+* git add 
+    * コミット対象のリポジトリをステージ
+* git commit
+    * **ローカル**に変更内容を保存
+* git push
+    * ローカルの内容を**リモート**にマージ
