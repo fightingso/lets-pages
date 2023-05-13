@@ -5,7 +5,7 @@
 ---
 
 ### ユーザ名
-![icon](https://media.discordapp.net/attachments/970693929144029195/1094717514438672404/405_20230122181632_Original.jpg?width=50%&height=50%)
+![icon](https://media.discordapp.net/attachments/970693929144029195/1094717514438672404/405_20230122181632_Original.jpg?width=100&height=100)
 **Manato Yamashita**
 
 * https://github.com/ManatoYamashita/
