@@ -1,6 +1,6 @@
 ### ユーザ名
 Manato Yamashita
-![https://discord.com/channels/885045258499543050/970693929144029195/1094717685134262333](icon)
+![icon](https://discord.com/channels/885045258499543050/970693929144029195/1094717685134262333)
 * https://github.com/ManatoYamashita/
 * https://tmana.sub.jp
 * https://bento.me/ym
