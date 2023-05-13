@@ -1,6 +1,12 @@
+# GitHub講習会 2023
+by Otani Lab.
+2023.05.08
+---
+
 ### ユーザ名
-Manato Yamashita
-![icon](https://media.discordapp.net/attachments/970693929144029195/1094717514438672404/405_20230122181632_Original.jpg?width=490&height=484)
+![icon](https://media.discordapp.net/attachments/970693929144029195/1094717514438672404/405_20230122181632_Original.jpg)
+**Manato Yamashita**
+
 * https://github.com/ManatoYamashita/
 * https://tmana.sub.jp
 * https://bento.me/ym
