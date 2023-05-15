@@ -1,6 +1,13 @@
+# GitHub講習会 2023
+
+* by Otani Lab.
+* 2023.05.08
+---
+
 ### ユーザ名
-Manato Yamashita
-<img src="https://discord.com/channels/885045258499543050/970693929144029195/1094717685134262333" alt="画像の説明" />
+![icon](https://media.discordapp.net/attachments/970693929144029195/1094717514438672404/405_20230122181632_Original.jpg?width=100&height=100)
+**Manato Yamashita**
+
 * https://github.com/ManatoYamashita/
 * https://tmana.sub.jp
 * https://bento.me/ym
@@ -10,4 +17,15 @@ Manato Yamashita
 * https://www.comm.tcu.ac.jp/seki_lab
 
 ### 研究室でやりたいこと
-Vue.jsで関研究室の古いWebサイトを創り直したいです。
+* Vue.jsで関研究室の古いWebサイトを創り直したいです。
+* HTTPSによるセキュアな通信について知りたいです。
+
+### 今日の復習
+* git add : ファイルをステージングエリアに追加する
+* git commit : ファイルをコミットする
+* git push : ファイルをローカルから**リモート**リポジトリにプッシュする
+* git pull : ファイルをリモートリから**ローカル**ポジトリへプルする
+* git clone : リモートリポジトリを**ローカル**リポジトリにクローンする
+* git branch : ブランチを作成する
+* git checkout : ブランチを切り替える
+* git merge : ブランチをマージする
